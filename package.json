@@ -1,0 +1,17 @@
+{
+  "name": "currency-converter-api",
+  "version": "1.0.0",
+  "description": "Middleware for converting currency or cryto values from one to another",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request-ip": "^2.1.3"
+  }
+}
