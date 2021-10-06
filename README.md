@@ -1,4 +1,4 @@
-## currency-converter
+## Currency converter
 This is an Node JS express service that converts one currency/crypto to another E.g USD to EUR, BTC to USD.
 You can also whitelist IP that will use this service
 
