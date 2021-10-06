@@ -3,7 +3,7 @@ This is an Node JS express service that converts one currency/crypto to another 
 You can also whitelist IP that will use this service
 
 ## Getting Started
-First, run the development server:
+First, install and run the development server:
 
 ```bash
 npm install
