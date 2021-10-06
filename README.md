@@ -7,11 +7,10 @@ First, run the development server:
 
 ```bash
 npm install
-# or
-node app.js
 
+node app.js
 ```
 
 ## Demo
 
-Open [http://localhost:3000/api/v1/convert_currency?from=BTC&to=NGN](http://localhost:3000/api/v1/convert_currency?from=BTC&to=NGN) with your browser to see the result.
+Open [http://localhost:3300/api/v1/rate_conversion?from=BTC&to=NGN](http://localhost:3300/api/v1/rate_conversion?from=BTC&to=NGN) with your browser to see the result.
